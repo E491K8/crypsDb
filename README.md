@@ -1,10 +1,10 @@
-# Python crypsDb
+# Python crypsdb
 
-Your crypsDb is a lightweight JSON-based database system for Python, providing an easy way to store and manage structured data within your Python applications.
+Your crypsdb is a lightweight JSON-based database system for Python, providing an easy way to store and manage structured data within your Python applications.
 
 ## Installation
 
-You can install crypsDb using pip:
+You can install crypsdb using pip:
 
 ```shell
-pip install crypsDb
+pip install crypsdb
