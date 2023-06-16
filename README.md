@@ -15,10 +15,7 @@ CrypsDB is a Python library that provides a simple and lightweight JSON-based da
 
 ## Installation
 
-You can install CrypsDB using pip:
-
 pip install crypsdb
-
 
 ## Usage
 
