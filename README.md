@@ -20,6 +20,7 @@ You can install crypsdb using pip:
 ```shell
 pip install crypsdb
 
+```
 ## Usage
 
 Here's a simple example that demonstrates how to use CrypsDB:
